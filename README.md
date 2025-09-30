@@ -12,7 +12,7 @@
 
 ---
 
-### Quick stats
+### Stats
 <p align="left">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=onlytoxi&show_icons=true&count_private=true&theme=tokyonight" />
   
@@ -22,13 +22,12 @@
 ---
 
 ### Activity
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=onlytoxi&theme=github" width="100%" />
-</p>
+![GitHub Snake Light](https://github.com/onlytoxi/onlytoxi/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/onlytoxi/onlytoxi/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
-### Contact me at @tcixt on Telegram
+### Contact me at [@tcixt](https://t.me/tcixt) on Telegram
 
 ---
 
