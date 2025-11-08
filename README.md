@@ -7,17 +7,21 @@
 
 ---
 
+### Status
+Currently working with the [**Quasar Continuation**](https://github.com/Quasar-Continuation) Org
+
+---
+
 ### Projects
-[🔹 CVE-2025-8088 — WinRAR Tool](https://github.com/onlytoxi/CVE-2025-8088-Winrar-Tool)
+[🔹 CVE-2025-8088 — WinRAR Tool](https://github.com/onlytoxi/CVE-2025-8088-Winrar-Tool)   
+[🔹 Pulsar C2 — Quasar Continuation fork](https://github.com/Quasar-Continuation/Poopsar)  
+[🔹 Pulsar Plugins — Plugins Collection](https://github.com/Quasar-Continuation/Pulsar-Plugins) 
 
 ---
 
 ### Stats
 <p align="left">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=onlytoxi&show_icons=true&count_private=true&theme=tokyonight" />
-  
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlytoxi&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
